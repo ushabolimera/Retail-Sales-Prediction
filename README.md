@@ -1,5 +1,5 @@
 # Retail-Sales-Prediction
-![image](https://user-images.githubusercontent.com/98172465/170452594-42755c6b-bbc7-43cf-9da6-3ede7ec4d03b.png)
+![image](https://user-images.githubusercontent.com/98172465/170452763-6c2ca1dd-404a-46ae-a0c9-64dce4da99d5.png)
 # Problem Statement
 This project involves solving a real-world business problem of sales forecasting and building up a machine learning model for the same. Our goal here is to forecast the sales for six weeks for each store and find out the factors influencing it and recommend ways in order to improve the numbers.
 
